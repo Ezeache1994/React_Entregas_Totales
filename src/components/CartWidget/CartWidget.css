@@ -1,0 +1,13 @@
+.AllCartContainer{
+    display: flex;
+    margin-left: 4rem;
+    margin-top: 0.65rem;
+};
+
+.AllCartContainer > span{
+    background-color: tomato;
+    color: white
+};
+
+
+

@@ -1,0 +1,12 @@
+.UlList{
+    display: flex;
+    justify-content: space-between;
+    width: 55%;    
+    align-items: center;
+    color: black !important;
+    list-style: none;
+    text-decoration: none;  
+    margin-left: 4rem;  
+};
+
+

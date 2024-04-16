@@ -1,0 +1,13 @@
+.ButtonLoginContainer{
+    display: flex;    
+    align-items: center;
+    margin: 0 0 0 6rem;
+};
+
+.ButtonLogin{
+padding: 2rem;
+color: blue
+};
+
+
+
